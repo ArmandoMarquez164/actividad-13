@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+#ARMANDO MARQUEZ OCHOA 
+#212664761
+#DATA ANALITICS 2023
 
 # In[3]:
 
